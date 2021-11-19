@@ -23,7 +23,7 @@ header {
 	padding-bottom: 2em;
 	border-bottom: 3px solid #69ddf1;
 	background-image: linear-gradient(
-	    45deg, rgb(50, 6, 248) 0%, rgb(25, 0, 255) 30%, white 50%, rgb(0, 26, 255) 80%, rgb(29, 4, 255) 100%);
+	    45deg, navy 0%, navy 30%, white 50%, navy 80%, navy 100%);
 }
 header h2 {
 	font-size: 170%;
@@ -92,7 +92,7 @@ main li {
 
 /* the styles for the footer */
 footer {
-	background-color:navy(115, 238, 141);
+	background-color:navy;
 
 }
 footer p {
@@ -101,4 +101,3 @@ footer p {
 	padding-top: 1em;
 	padding-bottom: 1em;
 }
-
